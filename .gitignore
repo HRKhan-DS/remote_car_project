@@ -130,6 +130,9 @@ ENV/
 env.bak/
 venv.bak/
 
+.raw_datasets
+raw_datasets/
+
 # Spyder project settings
 .spyderproject
 .spyproject
